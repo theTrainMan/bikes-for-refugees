@@ -50,11 +50,17 @@ button {
 }
 
 .btn-white:hover {
-    background-color: #ce3192;
+    background-color: #7ba5ff;
     color: wheat;
 }
 
-.btn-white:focus {}
+.btn-white:focus {
+    background-color: #ffee00;
+}
+
+.btn-white:active {
+    background-color: blueviolet;
+}
 
 
 /* Alert */
