@@ -28,6 +28,7 @@ body {
     color: #292b2c;
     font-weight: 600;
     text-transform: uppercase;
+    padding: 0 20px;
     /*  Challenge: can you make the navigation links orange on hover? */
 }
 
